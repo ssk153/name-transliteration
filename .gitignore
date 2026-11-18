@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+__pycache__/
+prepared_models/
+.prepare-t5-*/
+runs/
+evaluations/
+.evaluate-t5-*/
+*.pdf
+*.zip
+.vscode/
+contest3-2026/*.csv
+data/splits/
